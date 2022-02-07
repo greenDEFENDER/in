@@ -87,16 +87,31 @@ hr{
 
 }
 
+
 .skills_img{
 	width: 25%;
 	float: left;
 	margin-right: 50px;
 }
+#computer{
+	position: absolute;
+	width: 16%;
+}
+
+.skill-des1{
+	text-align:left;
+}
+#first-skill-row{
+	position:relative;
+	margin-left:260px;
+}
+
 
 .technology_img{
 	width: 30%;
-	float: right;
-	margin-left: 100px;
+	position:absolute;
+	width:16%;
+	margin-left: 20%;
 }
 #info{
 	color: #40514E;
@@ -104,6 +119,7 @@ hr{
 
 .skills{
 	margin-top: 140px;
+	margin-bottom: 140px;
 }
 
 a{
